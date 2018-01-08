@@ -9,18 +9,6 @@ The book starts with two jewelry projects-- a pendant of a silhouette and a brac
 
 You will learn modeling for 3D printing with the help of these projects. Whether you plan to print at-home or use a service bureau, you’ll start by understanding design requirements. The book begins with simple projects to get you started with 3D modeling basics and the tools available in Blender. As the book progresses, you’ll get exposed to more robust mesh modeling techniques, modifiers, and Blender shortcuts. By the time you reach your final project, you’ll be ready for organic modeling and learning how to add colors. In the final section, you’ll learn how to check for and correct common modeling issues to ensure the 3D printer can make your idea a reality!
 
-## Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
-
-
-
-The code will look like the following:
-```
-
-```
-
-
-
 ## Related Products
 * [Using Cycles Render Engine in Blender 3D [Video]](https://www.packtpub.com/web-development/using-cycles-render-engine-blender-3d-video?utm_source=github&utm_medium=repository&utm_campaign=9781788391504)
 
