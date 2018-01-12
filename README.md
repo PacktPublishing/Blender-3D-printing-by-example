@@ -15,6 +15,3 @@ You will learn modeling for 3D printing with the help of these projects. Whether
 * [Modern OpenGL C++ 3D Game Tutorial Series & 3D Rendering [Video]](https://www.packtpub.com/game-development/modern-opengl-c-3d-game-tutorial-series-3d-rendering-video?utm_source=github&utm_medium=repository&utm_campaign=9781788997768)
 
 * [Blender 3D By Example](https://www.packtpub.com/hardware-and-creative/blender-3d-example?utm_source=github&utm_medium=repository&utm_campaign=9781785285073)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
