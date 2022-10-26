@@ -15,3 +15,7 @@ You will learn modeling for 3D printing with the help of these projects. Whether
 * [Modern OpenGL C++ 3D Game Tutorial Series & 3D Rendering [Video]](https://www.packtpub.com/game-development/modern-opengl-c-3d-game-tutorial-series-3d-rendering-video?utm_source=github&utm_medium=repository&utm_campaign=9781788997768)
 
 * [Blender 3D By Example](https://www.packtpub.com/hardware-and-creative/blender-3d-example?utm_source=github&utm_medium=repository&utm_campaign=9781785285073)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788390545">https://packt.link/free-ebook/9781788390545 </a> </p>
